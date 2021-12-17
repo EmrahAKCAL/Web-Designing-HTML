@@ -14,7 +14,7 @@ SEO Nedir?
 Web sitesinin arama motoru sonuçlarında daha iyi pozisyona gelmesi için yapılan çalışmalar bütünüdür.
 
 SEO İçin En Önemli Meta Etiketleri Nelerdir?
-- Başlık etiketi: 50-60 karakter uzunluğunda dikkat çekilecek anahtar kelimeler kullanılmalıdır. Örneğin "Web Tasarlayıcıların Mutlaka Bilmesi Gereken Kavramlar" başlık etiketi gibi.
+- Başlık etiketi: 50-60 karakter uzunluğunda kullanıcının dikkatini çekecek anahtar kelimeler kullanılmalıdır. Örneğin "Web Tasarlayıcıların Mutlaka Bilmesi Gereken Kavramlar" başlık etiketi gibi.
 
 - Meta açıklama etiketleri kullanılmalıdır. <head> bölümünde sayfayı özetleyen kısımdır. 
 
