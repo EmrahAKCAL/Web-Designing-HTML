@@ -1,4 +1,4 @@
-# HTML 
+# HTML Nedir Ve Web Geliştiricilerin Bilmesi Gereken Kavramlar 
 HTML Nedir?
 İngilizce Hyper Text Markup Language cümlesinin baş harflerinden oluşur. İşaretleme dili olan Html, web sayfalarının hazırlanmasında kullanılan sistemdir. Bir programlama dili olmayan Html bilgisayarlarımızda kullandığımız web sitelerinin oluşturulmasında kullanılır.
 
