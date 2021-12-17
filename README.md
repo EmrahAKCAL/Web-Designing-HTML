@@ -23,4 +23,3 @@ SEO İçin En Önemli Meta Etiketleri Nelerdir?
 - Görsel konulmalı ve görsel açılmadığında görsele alternatif bir metin konulmalı. 
 
 - İçeriğin güvenirliliğini artırmak için kaynak göstermek veya iligili sayfaya yönlendirmek.
-       
