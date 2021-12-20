@@ -45,6 +45,6 @@ Web sitesinin arama motoru sonuçlarında daha iyi pozisyona gelmesi için yapı
               </tr>
        </tbody>
        </table>
-       <a href="https://codepen.io/pen/">Kodu Derlemek İçin Tıklayınız</a>
+       <a href="https://codepen.io/pen/">Çalışmaları Derlemek İçin Tıklayınız</a>
        
               
