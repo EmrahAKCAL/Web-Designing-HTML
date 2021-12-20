@@ -1,4 +1,4 @@
-#<h1 style="text-align: center;">Web Geliştiricilerin Bilmesi Gereken Kavramlar</h1>
+<h1 style="text-align: center;">Web Geliştiricilerin Bilmesi Gereken Kavramlar</h1>
 
 <b>HTML Nedir?</b><br>
 İngilizce Hyper Text Markup Language cümlesinin baş harflerinden oluşur. İşaretleme dili olan Html, web sayfalarının hazırlanmasında kullanılan sistemdir. Bir programlama dili olmayan Html bilgisayarlarımızda kullandığımız web sitelerinin oluşturulmasında kullanılır.
@@ -43,4 +43,8 @@ Web sitesinin arama motoru sonuçlarında daha iyi pozisyona gelmesi için yapı
                      <td>Javascript</td>
                      <td>Java</td>
               </tr>
+       </tbody>
+       </table>
+       <a href="https://codepen.io/pen/">Kodu Derlemek İçin Tıklayınız</a>
+       
               
