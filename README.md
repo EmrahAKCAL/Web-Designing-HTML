@@ -3,7 +3,7 @@
 HTML Nedir?
 İngilizce Hyper Text Markup Language cümlesinin baş harflerinden oluşur. İşaretleme dili olan Html, web sayfalarının hazırlanmasında kullanılan sistemdir. Bir programlama dili olmayan Html bilgisayarlarımızda kullandığımız web sitelerinin oluşturulmasında kullanılır.
 
-Domain Nedir?
+<ins>Domain Nedir?</ins>
 Domain (alan adı); hatırlanması zor olan IP adresleri yerine kullanılması için internet otoriteleri tarafından geliştirilen bir isimlendirme yöntemidir.
 Ücretsiz domain için dosyalar .tk veya .ml uzantılı olmalıdır. Kullanım süresi ise 1 yıldır.
        
