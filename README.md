@@ -13,7 +13,7 @@ Hosting veya Barındırma, bir web sitesinde yayınlanmak istenen sayfaların, r
 <b>SEO Nedir?</b><br>
 Web sitesinin arama motoru sonuçlarında daha iyi pozisyona gelmesi için yapılan çalışmalar bütünüdür.
 
-<b style= "text-align: center;">SEO İçin En Önemli Meta Etiketleri Nelerdir?</b><br>
+<b>SEO İçin En Önemli Meta Etiketleri Nelerdir?</b><br>
 - Başlık etiketi: 50-60 karakter uzunluğunda kullanıcının dikkatini çekecek anahtar kelimeler kullanılmalıdır. Örneğin "Web Tasarlayıcıların Mutlaka Bilmesi Gereken Kavramlar" başlık etiketi gibi.
 
 - Meta açıklama etiketleri kullanılmalıdır. Bağlantı bölümünün altında sayfayı özetleyen kısımdır. 
