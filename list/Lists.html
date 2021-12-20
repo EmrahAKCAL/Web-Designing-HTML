@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Lists</title>
+</head>
+<body>
+    <h1 style="text-align: center;">HTML Listeleri</h1>
+    <h2>1- Sırasız HTML Listesi</h2>
+    <p>Sırasız bir HTML listesi için < ul> </ ul> etiketi kullanılır. Her liste öğesi < li>etiketiyle başlar. Burada listenin başına bir işaret ekler. 
+        <ul>
+            <li>Erik</li>
+            <li>Üzüm</li>
+            <li>Karpuz</li>
+        </ul>
+        Bu işareti değiştirmek için < ul > içerisine <i>stle="list-style-type:</i> eklenir ve işaret tipi girilir. <br> Örneğin daire eklemek içik list-style-type: <ins>circle</ins>  eklentisi eklenmeli.
+        <ul style="list-style-type: circle;">
+            <li>Erik</li>
+            <li>Üzüm</li>
+            <li>Karpuz</li>
+        </ul>
+        Örneğin kare eklemek içik list-style-type: <ins>square</ins> eklentisi eklenmeli.
+        <ul style="list-style-type:square;">
+            <li>Erik</li>
+            <li>Üzüm</li>
+            <li>Karpuz</li>
+        </ul>
+    </p>
+    <h2>2- Sıralı HTML Listesi <small>(En Çok Şeker İçeren Meyveleri Sıralayalım)</small></h2> 
+    <p>Sıralı bir liste < ol>etiketi ile başlar . Her liste öğesi < li>etiketiyle başlar. Liste öğeleri varsayılan sayılarla işaretlenecektir.
+        <ol>
+            <li>Mango</li>
+            <li>Üzüm</li>
+            <li>Kiraz</li>
+        </ol>
+       Bu işareti değiştirmek için < ol type=""> içerisine işaret tipi(1, A, a, I veya i) girilir. <br> Örneğin listenin başına A-B-C... getirilmesi için type="A" yazılır.
+        <ol type="A">
+            <li>Mango</li>
+            <li>Üzüm</li>
+            <li>Kiraz</li>
+        </ol>
+        Eğer listenin başına küçük harf yapmak için type="a" yazılır veya Roma rakamları için "I" eklenir.
+        <ol type="a">
+            <li>Mango</li>
+            <li>Üzüm</li>
+            <li>Kiraz</li>
+        </ol>
+        <ol type="I">
+            <li>Mango</li>
+            <li>Üzüm</li>
+            <li>Kiraz</li>
+        </ol>
+        Eğer belli bir sayıdan sonra başlamasını istiyorsak start=" " etiketi eklenir. <br>Örneğin 5'ten başlamasını istiyorsak start="5" yazılmalıdır.
+        <ol type="1"start="5">
+            <li>Mango</li>
+            <li>Üzüm</li>
+            <li>Kiraz</li>
+        </ol>
+        Liste içerinde bir alt liste de eklenenebilir. Bunu ilgili < li> etiketi içerisnde yeniden sırasız/sıralı (ul/ol) etiketi kullanılır. <br>Örneğin meyvelerin Faydaları ve Yetiştiği Yer olmak üzere iki alt etiket ekleyelim.
+        <ol type="1">
+            <li>Mango
+                <ol type="a">
+                    <li>Faydaları</li>
+                    <li>Yetiştiği Yer</li>
+                </ol>
+            </li>
+            <li>Üzüm
+                <ul style="list-style-type: symbols();">
+                    <li>Faydaları</li>
+                    <li>Yetiştiği Yer</li>
+                </ul>
+            </li>
+            <li>Kiraz
+                <ul style="list-style-type:georgian;">
+                    <li>Faydaları</li>
+                    <li>Yetiştiği Yer</li>
+                </ul>
+            </li>
+        </ol>
+    </p>
+    <h2>3- HTML Açıklama Listeleri</h2>
+    Bu kısımda listenen ürünlerin önüne herhangi bir işaret getirmez. Bir ürünün ismi için < dt> etiketi,  açıklama kısmı için ise < dd> etiketi kullanılır. Bu etiketler açıklama listesi < dl>  etiketi içerisine alınır. <br> Örneğin soru(< dt>) ve  cevap (< dd>) şeklinde bir çalışma tasarlamayalım.
+    <dl>
+        <dt>HTML Nedir?</dt>
+        <dd>İngilizce Hyper Text Markup Language cümlesinin baş harflerinden oluşur. </dd>
+        <dd>İşaretleme dili olan Html, web sayfalarının hazırlanmasında kullanılan sistemdir. Bir programlama dili olmayan Html bilgisayarlarımızda kullandığımız web sitelerinin oluşturulmasında kullanılır. </dd>
+        <dt>Domain Nedir?</dt>
+        <dd>Domain (alan adı); hatırlanması zor olan IP adresleri yerine kullanılması için internet otoriteleri tarafından geliştirilen bir isimlendirme yöntemidir.</dd>
+        <dt>Web Hosting Nedir?</dt>
+        <dd>Hosting veya Barındırma, bir web sitesinde yayınlanmak istenen sayfaların, resimlerin veya dokümanların internet kullanıcıları tarafından erişebileceği bir bilgisayarda tutulmasıdır. Bir başka değişle site barındırma hizmetidir.</dd>
+        <dt>SEO Nedir?</dt>
+        <dd> Web sitesinin arama motoru sonuçlarında daha iyi pozisyona gelmesi için yapılan çalışmalar bütünüdür.</dd>
+    </dl>
+
+</body>
+</html>
