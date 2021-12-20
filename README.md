@@ -1,19 +1,19 @@
 #Web Geliştiricilerin Bilmesi Gereken Kavramlar 
 
-HTML Nedir?
+<b>HTML Nedir?</b>
 İngilizce Hyper Text Markup Language cümlesinin baş harflerinden oluşur. İşaretleme dili olan Html, web sayfalarının hazırlanmasında kullanılan sistemdir. Bir programlama dili olmayan Html bilgisayarlarımızda kullandığımız web sitelerinin oluşturulmasında kullanılır.
 
-<ins>Domain Nedir?</ins>
+<b>Domain Nedir?</b>
 Domain (alan adı); hatırlanması zor olan IP adresleri yerine kullanılması için internet otoriteleri tarafından geliştirilen bir isimlendirme yöntemidir.
 Ücretsiz domain için dosyalar .tk veya .ml uzantılı olmalıdır. Kullanım süresi ise 1 yıldır.
        
-Web Hosting Nedir?
+<b>Web Hosting Nedir?</b>
 Hosting veya Barındırma, bir web sitesinde yayınlanmak istenen sayfaların, resimlerin veya dokümanların internet kullanıcıları tarafından erişebileceği bir bilgisayarda tutulmasıdır. Bir başka değişle site barındırma hizmetidir.
 
-SEO Nedir?
+<b>SEO Nedir?</b>
 Web sitesinin arama motoru sonuçlarında daha iyi pozisyona gelmesi için yapılan çalışmalar bütünüdür.
 
-SEO İçin En Önemli Meta Etiketleri Nelerdir?
+<b style= "text-aling: center;">SEO İçin En Önemli Meta Etiketleri Nelerdir?</b>
 - Başlık etiketi: 50-60 karakter uzunluğunda kullanıcının dikkatini çekecek anahtar kelimeler kullanılmalıdır. Örneğin "Web Tasarlayıcıların Mutlaka Bilmesi Gereken Kavramlar" başlık etiketi gibi.
 
 - Meta açıklama etiketleri kullanılmalıdır. Bağlantı bölümünün altında sayfayı özetleyen kısımdır. 
