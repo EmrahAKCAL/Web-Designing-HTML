@@ -13,6 +13,4 @@
   <li><b>< q>:</b> Kısa alıntılar için kullanılır. Alıntıyı tırnak içine alır.</li>
   <li><b>< hr></b> Kullanıldığı yerde sayfayı böler.</li>
   </ul>
-  <img src="<img src='https://user-images.githubusercontent.com/48285856/146905980-5f8fc36e-2ad1-4b71-af46-6a5ad88c0815.png' with='200' height="300">" alt="Formatting tags photo">
-
-<img src='https://github.com/EmrahAKCAL/HTML/blob/master/formatting-tags.png' with='300'>
+![formatting-tags](https://user-images.githubusercontent.com/48285856/146908006-df3726d9-d441-4386-ab23-72b9ba15a56b.png)
