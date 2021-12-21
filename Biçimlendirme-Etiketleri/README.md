@@ -15,3 +15,4 @@
   </ul>
   <img src="<img src='https://user-images.githubusercontent.com/48285856/146905980-5f8fc36e-2ad1-4b71-af46-6a5ad88c0815.png' with='200' height="300">" alt="Formatting tags photo">
 
+<img src='https://github.com/EmrahAKCAL/Arduino_pro_mini/blob/master/arduino_footprint.png' with='300'>
