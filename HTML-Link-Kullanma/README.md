@@ -1,4 +1,4 @@
-<h1>HTML'de Linlklerin Kullanımı</h1>
+<h1>HTML'de Linklerin Kullanımı</h1>
 Bağlantılar hemen hemen tüm web sayfalarında bulunur. Bağlantılar, kullanıcıların sayfadan sayfaya veya sayfa içerisinde kendi yollarını tıklamalarına izin verir. <br>
 <b><i>< a href="url" target=""></i></b>link Metni<b><i>< /a></i></b><br>
 <ul>
