@@ -13,4 +13,4 @@
   <li><b>< q>:</b> Kısa alıntılar için kullanılır. Alıntıyı tırnak içine alır.</li>
   <li><b>< hr></b> Kullanıldığı yerde sayfayı böler.</li>
   </ul>
-![formatting-tags](https://user-images.githubusercontent.com/48285856/146908006-df3726d9-d441-4386-ab23-72b9ba15a56b.png)
+<img src="https://user-images.githubusercontent.com/48285856/146908006-df3726d9-d441-4386-ab23-72b9ba15a56b.png">
