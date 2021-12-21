@@ -19,3 +19,4 @@ Bir görseli bağlantı olarak kullanmak için <b>< img></b> etiketini <b>< a></
 Etiket kısmına tıklanıldığında sayfa içerisindeki ilgili bölüme gitmek için <b><i>< a href="#id-isim-etiketi">Bağlantı Metni< /a> </i></b> Bağlantısı kullanılır. 
 Örneğin: <b>< a href="#Aslanprens"></b>Aslan Prens Masalı<b>< /a></b> <i>Aslan Prens Masalı</i> bağlantısına tıklanıldığında id="Aslanprens" etiketli bölüme gidecektir.<br> 
 <b>< h4 id="Aslanprens">1-Aslan Prens Masalı< /h4></b>
+  <br><br><br><a href="https://codepen.io/pen/">HTML Çalışmasını Derle</a>
