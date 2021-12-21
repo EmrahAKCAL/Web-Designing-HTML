@@ -10,4 +10,4 @@
 <b>< h2></b>Sayfanın 2. Başlığı<b>< /h2></b><br>
 <b>< p></b>Paragraf İçeriği<b>< /p></b><br>
 <b>< br>:</b> Boşluğa denk gelir. Bir alt satıra geçmesini sağlar.<br>
-<b> style=" ":</b> Etiketi kullanılarak sayfaya(body), sayfa başlığına(h etiketleri) ve paragrafa(p) özellikler verilebilir.<br>
+<b> style=" ":</b> Etiketi kullanılarak sayfaya(body), sayfa başlığına(h etiketleri) ve paragrafa(p) renk, arkaplan rengi gibi özellikler verilebilir.<br>
