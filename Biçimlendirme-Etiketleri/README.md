@@ -10,4 +10,7 @@
   <li><b>< ins>:</b> Yazının altını çizer.</li>
   <li><b>< sub>:</b> Yazıya alt simge ekleme etiketi.</li>
   <li><b>< sup>:</b> Yazıya üst simge ekleme etiketi.</li>
+  <li><b>< q>:</b> Kısa alıntılar için kullanılır. Alıntıyı tırnak içine alır.</li>
+  <li><b>< hr></b> Kullanıldığı yerde sayfayı böler.</li>
   </ul>
+  <img src="C:\Users\lenova\Desktop\html-image" alt="Formatting tags photo">
