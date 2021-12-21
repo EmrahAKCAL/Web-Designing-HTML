@@ -5,3 +5,4 @@ Resim yüklemek için aşağıdaki etiket kullanılır.<br>
 <b>alt=""</b>: Resim yüklenmediğinde veya herhangi bir sorun olduğunda kullanıcıya verilmek istenen alternatif bilgi bu etiket içerisine yazılır.<br>
 <b>width=""</b>: Resmi boyutlandırmak için kullanılır.<br>
 <b>title=""</b>: Kullanıcı resmin üzerine geldiğinde gözükecek ileti.
+<br><br><br><a href="https://codepen.io/pen/">HTML Çalışmasını Derle</a>
