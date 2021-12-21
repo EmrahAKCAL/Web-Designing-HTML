@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">HTML'nin Yapısı</h1>
-<b><!DOCTYPE html></b>
+<b>< !DOCTYPE html></b>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
