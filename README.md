@@ -23,6 +23,8 @@ Web sitesinin arama motoru sonuçlarında daha iyi pozisyona gelmesi için yapı
 - Görsel konulmalı ve görsel açılmadığında görsele alternatif bir metin konulmalı. 
 
 - İçeriğin güvenirliliğini artırmak için kaynak göstermek veya iligili sayfaya yönlendirmek.
+<h3>Web Geliştirici Kimdir?</h3>
+<ul> <li>Bir web geliştiricisi, istemci-sunucu modeli kullanarak World Wide Web uygulamalarının geliştirilmesinde uzmanlaşmış veya özel olarak ilgilenen bir programcıdır. Uygulamalar genellikle istemcide, PHP, ASP'de HTML, CSS ve JavaScript kullanır.</li></ul>
 <table border="1">
        <thead>
               <tr>
