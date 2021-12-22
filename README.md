@@ -47,6 +47,8 @@ Web sitesinin arama motoru sonuçlarında daha iyi pozisyona gelmesi için yapı
               </tr>
        </tbody>
        </table>
+      <br><br><br>
+      <b>NOT:</b><i>Bazı çalışmalarda CSS'de kullanılmıştır.</i>
        <a href="https://codepen.io/pen/">Çalışmaları Derlemek İçin Tıklayınız</a>
        
               
